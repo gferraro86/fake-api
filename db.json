@@ -1,4 +1,14 @@
 {
+    "users":[
+        {
+            "id": 1,
+            "username": "Giorgio"
+          },
+          {
+            "id": 2,
+            "username": "Giuseppe"
+          }
+    ],
     "posts": [
       {
         "id": 1,
